@@ -1,17 +1,17 @@
 {
-  "CONTRACT_ADDRESS": "0x31c85be0448f8a5353fa0c26e78a0309b81eee54",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x4870a229627d873ae824f6faebab48285cd67f7533d38d81ede71dfb0e03e242",
+  "CONTRACT_ADDRESS": "0x7340E290f9bE98E879200E53DA75469Eb2F5CA42",
+  "SCAN_LINK": "https://etherscan.io/tx/0x40cce587a580874b1d34070ddba479c062e08d051af07cd3b2e911dfe4e2c6a4",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Ethereum",
     "SYMBOL": "Eth",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Shadow Descendants",
-  "SYMBOL": "SDs",
+  "SYMBOL": "SDS",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 0.1,
-  "GAS_LIMIT": 285000,
+  "WEI_COST": 1000000000000,
+  "DISPLAY_COST": 0.000001,
+  "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/",
   "MARKETPLACE1": "LooksRare",
